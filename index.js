@@ -39,4 +39,3 @@ function preserveDecimal(a)
   number= parseFloat(a);
   return number;
 }
-
